@@ -260,6 +260,7 @@ $(function() {
                     pad: 4
                   },
                   //width: 588,
+                  width 1310, // 1280 + 30, same as my custom .span8 width
                   height: 720,  // was 400, drewoprea
                   showlegend: false,
                   hovermode: "x",

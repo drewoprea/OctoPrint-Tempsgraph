@@ -1,5 +1,10 @@
 # OctoPrint-Tempsgraph
 
+This Plugin is a fork of https://github.com/1r0b1n0/OctoPrint-Tempsgraph
+It has been modified to use more of my screen's width.
+Currently it is set to 720x1280, and depends on using Theameify to set .span8|width to "1310"
+Eventully I would like to use the setting dialouge to control the size, or inherit the size from .span8 and settings.
+
 This plugin adds some functionaly to the temperature graph :
 * exact values on hover
 * zooming
@@ -18,10 +23,9 @@ This plugin adds some functionaly to the temperature graph :
 
 ## Setup
 
-Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
-or manually using this URL:
+Install manually using this URL:
 
-    https://github.com/1r0b1n0/OctoPrint-Tempsgraph/archive/master.zip
+    https://github.com/drewoprea/OctoPrint-Tempsgraph/archive/master.zip
 
 ## Configuration
 
