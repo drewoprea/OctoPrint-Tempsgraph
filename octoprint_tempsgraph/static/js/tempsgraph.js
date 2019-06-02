@@ -259,8 +259,7 @@ $(function() {
                     t: 30,
                     pad: 4
                   },
-                  //width: 588,
-                  width 1280, // Same as webcam stream
+                  //width: 588, //defining width here breaks things
                   height: 720,  // was 400, drewoprea
                   showlegend: false,
                   hovermode: "x",
