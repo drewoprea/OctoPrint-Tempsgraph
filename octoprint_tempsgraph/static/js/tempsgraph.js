@@ -260,7 +260,7 @@ $(function() {
                     pad: 4
                   },
                   //width: 588,
-                  height: 400,
+                  height: 720,  // was 400, drewoprea
                   showlegend: false,
                   hovermode: "x",
                   // dark style support
